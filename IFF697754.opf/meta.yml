@@ -1,0 +1,16 @@
+id: IFF697754
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:54:54.960225
+last_modified: 2023-02-09 14:54:54.960405
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka'
+  language: sa
+bases:
+  77FD:
+    base_file: 77FD.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

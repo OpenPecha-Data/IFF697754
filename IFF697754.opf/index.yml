@@ -1,0 +1,63 @@
+id: 4330268318df4d45972b0e1abdf251de
+annotation_type: index
+revision: '00001'
+annotations:
+  aeebe1f29c1c4fea94275f5913ad2b27:
+    base: 77FD.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 60
+    - title: Preface
+      span:
+        start: 61
+        end: 136
+    - title: 'Chapter 1: Gṛhapati'
+      span:
+        start: 137
+        end: 23783
+    - title: 'Chapter 2: Kimbhīrayakṣa'
+      span:
+        start: 23784
+        end: 23805
+    - title: 'Chapter 3: Bodhisatvaparīkṣā'
+      span:
+        start: 23806
+        end: 23827
+    - title: 'Chapter 4: Tathāgatācintya'
+      span:
+        start: 23828
+        end: 23849
+    - title: 'Chapter 5: Caturbrahmavihāra'
+      span:
+        start: 23850
+        end: 23871
+    - title: 'Chapter 6: Dānapāramitā'
+      span:
+        start: 23872
+        end: 23893
+    - title: 'Chapter 7: Śīlapāramitā'
+      span:
+        start: 23894
+        end: 23915
+    - title: 'Chapter 8: Kṣāntipāramitā'
+      span:
+        start: 23916
+        end: 23937
+    - title: 'Chapter 9: Vīryapāramitā'
+      span:
+        start: 23938
+        end: 23959
+    - title: 'Chapter 10: Dhyānapāramitā'
+      span:
+        start: 23960
+        end: 25054
+    - title: 'Chapter 11: Prajñāpāramitā'
+      span:
+        start: 25055
+        end: 31217
+    - title: Colophon
+      span:
+        start: 31218
+        end: 37942
